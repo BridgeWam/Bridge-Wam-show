@@ -990,6 +990,13 @@ body {
     margin-bottom: 5px;
 }
 
+.publication-links .publication-link-status {
+  margin-left: 0.6em;
+  color: #c4c4c4;
+  font-size: 0.7em;
+  font-weight: 400;
+}
+
 .dnerf {
   font-variant: small-caps;
 }
