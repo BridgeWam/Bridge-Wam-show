@@ -1,0 +1,32 @@
+#real-robot { scroll-margin-top: 2rem; }
+.bw-realrobot-photo { margin: 2rem 0 3rem; }
+.bw-realrobot-photo img { display: block; width: 100%; height: auto; }
+.bw-realrobot-photo figcaption { margin-top: .8rem; color: #777; font-size: .82rem; }
+.bw-comparisons { text-align: left; }
+.bw-comparison-intro { margin-bottom: 1.5rem; }
+.bw-comparison-intro h3 { font-size: 1.4rem; font-weight: 700; margin-bottom: .4rem; }
+.bw-comparison-intro p { color: #74706c; font-size: .9rem; }
+.bw-comparison-row { border: 1px solid #e5e0db; border-radius: 14px; margin: 0 0 1.4rem; overflow: hidden; background: #fff; }
+.bw-comparison-toolbar { display: flex; flex-wrap: wrap; gap: .8rem; align-items: center; padding: 1rem 1.1rem; background: #faf9f7; border-bottom: 1px solid #eee9e4; }
+.bw-comparison-toolbar h3 { flex: 1 1 220px; font-size: 1rem; font-weight: 650; margin: 0; }
+.bw-task-number { margin-right: .65rem; color: #aaa198; font-size: .78rem; font-weight: 500; }
+.bw-pair-controls, .bw-setting-buttons { display: flex; gap: .35rem; flex-wrap: wrap; }
+.bw-comparison-toolbar button { border: 1px solid #dcd7d0; border-radius: 6px; padding: .4rem .65rem; background: #fff; color: #49443e; font: inherit; font-size: .75rem; cursor: pointer; }
+.bw-comparison-toolbar button:hover { background: #eeeae4; }
+.bw-comparison-toolbar button:focus-visible { outline: 2px solid #426c57; outline-offset: 2px; }
+.bw-setting-buttons button[aria-pressed="true"] { color: #fff; background: #405b4c; border-color: #405b4c; }
+.bw-comparison-pair { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 1rem; padding: 1rem; }
+.bw-comparison-video { margin: 0; min-width: 0; }
+.bw-comparison-video figcaption { font-weight: 650; font-size: .9rem; margin: 0 0 .65rem; text-align: center; color: #625e59; }
+.bw-comparison-video figcaption.bw-method-ours { color: #365c46; }
+.bw-method-ours span { font-weight: 500; font-size: .68rem; background: #eaf1eb; padding: .15rem .4rem; border-radius: 4px; margin-left: .25rem; }
+.bw-comparison-video video { width: 100%; display: block; aspect-ratio: 16 / 9; object-fit: contain; background: #171717; border-radius: 7px; }
+.bw-comparison-error { font-size: .8rem; padding: .5rem; color: #a03226; }
+.bw-edit-notes { margin-top: 1rem; font-size: .8rem; color: #77716b; line-height: 1.6; }
+.bw-edit-notes summary { cursor: pointer; font-weight: 600; }
+.bw-edit-notes p { margin: .6rem 0; }
+@media (max-width: 560px) {
+  .bw-comparison-pair { grid-template-columns: minmax(0,1fr); }
+  .bw-comparison-toolbar { padding: .8rem; }
+  .bw-realrobot-photo { margin-bottom: 2rem; }
+}

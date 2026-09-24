@@ -1,0 +1,83 @@
+[
+  {
+    "source": "video/bridgewam/close_the_laptop.mp4",
+    "output": "close_the_laptop.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "97f8d30010fd66a3b7fc21f4bdeb2d54848134007084d2cac27bd86b3fae03ce",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/drink 0.mp4",
+    "output": "drink-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "da7ff1bfbe71040ea16bc743c312f2d311fddcfae91b11d6a148f2f6f606245c",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/drink 1.mp4",
+    "output": "drink-1.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "488dcbf954bf6fa541fd01d2803c31f6d1376e6f76aa5a4b3dbd7e1e5b6e1ef8",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/drink 2.mp4",
+    "output": "drink-2.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "6e1176894a0b2093fc469f070e69d978c310b2a99a6aa1b57fef9795403cdf4b",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/mouse 0.mp4",
+    "output": "mouse-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "8f9b4fc61913ec78b603c7331bba369d25318bb02925a9fe393004b922582ac3",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/mouse 1.mp4",
+    "output": "mouse-1.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "ee203fcd3478bdf153c61c242fad1018e005591937f1703436c2f460cd39d857",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/mouse 2.mp4",
+    "output": "mouse-2.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "0655ca46b35ccc499328e17e7f83a7b6c634c7c1c14feaaaaf55e76c73d57120",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/pen 0.mp4",
+    "output": "pen-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "79423288301952050a96bc9e3e254cf4984cd43938c30bb58aa092c14bc3bad8",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/bridgewam/pen 1.mp4",
+    "output": "pen-1.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "04fbca8b38c0c66846c823c92f8ff1f3eec87dbd7c6fdda1181e1caf8b61ba6b",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  }
+]

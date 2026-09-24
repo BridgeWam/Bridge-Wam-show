@@ -1,0 +1,56 @@
+[
+  {
+    "source": "video/fastwam/close_the_laptop.mp4",
+    "output": "close_the_laptop.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "36feaef9e41e7d7a01722378e942e5b4b734ad507a11c425b648caf2b8d62594",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/fastwam/drink 0.mp4",
+    "output": "drink-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "7339496388d1ab48d7458e84662bc5b7814678fa1a8ee7214a2b66a591dd964f",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/fastwam/drink 1.mp4",
+    "output": "drink-1.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "ea83f09c3290356c06b08fb6e322ca65b99e4fe4024e0bfe896c49660177f46e",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/fastwam/drink 2.mp4",
+    "output": "drink-2.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "5fe50c0842b43078dd7d77ed22dd22acdf7161f0c9501e696da92ccea23fe675",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/fastwam/mouse 0.mp4",
+    "output": "mouse-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "a7d3aa7f9c744fdce7b0f28c7a28494b3936e98a33e20642657b26d9ffc01c6f",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  },
+  {
+    "source": "video/fastwam/pen 0.mp4",
+    "output": "pen-0.mp4",
+    "trim_seconds": null,
+    "spatial_crop": null,
+    "source_sha256": "865d1e8bb14be02bf41a82434607fe6bf349a59b68921e54e9f405909d3fefa2",
+    "export_mode": "exact_copy_of_current_source",
+    "playback_speed": 1
+  }
+]
